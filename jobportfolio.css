@@ -53,7 +53,6 @@ hr {
 .listPics {
 	margin-right: .2%;
 	max-width: 25vh;
-
 }
 
 .projectList img {
@@ -115,15 +114,10 @@ hr {
 }
 
 #aboutmePic {
-	height: 225px;
-	width: 225px;
-	border-radius: 50%;
+	height: 220px;
+	width: 220px;
 	margin: 0 20%;
-}
-
-.responsive {
-	width: 100%;
-	height: auto;
+	border-radius: 50%;
 }
 
 #contact {
