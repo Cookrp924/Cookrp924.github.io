@@ -50,17 +50,9 @@ hr {
 	padding-top: 2.5%;
 }
 
-.listPics {
-	margin-right: .2%;
-	max-width: 25vh;
-}
-
 .projectList img {
-	position: absolute;
 	height: 100px;
-	width: 100%;
-	top: 0;
-	left: 0;
+	width: 150px;
 }
 
 .img-fluid {
